@@ -6,7 +6,6 @@ Fully functional book library web app using the MERN stack (MongoDB, Express, Re
 * ✅ Set up a MongoDB database and connect it with Node.js & Express
 * ✅ Build a modern React frontend with clean UI & state management
 * ✅ Upload and manage book images with Cloudinary
-* ✅ Deploy your full-stack app online! 
 
 # Run Frontend
 * cd frontend -  http://localhost:5173
